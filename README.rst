@@ -4,9 +4,6 @@ pizzapy
 Disclaimer
 -----------
 This is my fork of https://github.com/gamagori/pizzapi
-It's heavily modified and not well documented, but i'm going to get to that. the below example should work though.
-
-sorry! was kind of in a rush this morning.
 
 Setup
 -----
