@@ -4,6 +4,7 @@ pizzapy
 Disclaimer
 -----------
 This is my fork of https://github.com/Magicjarvis/pizzapi. I wanted to try this out after watching his Youtube video :D This was solely for fun/practice.
+I edited some parts of the code for it to work in Canada (it can be easily modified to work in USA as well).
 
 Setup 
 -----
