@@ -1,4 +1,4 @@
-# fork from https://github.com/Magicjarvis/pizzapi
+# fork from https://github.com/techwithtim/pizzapi
 
 from pizzapy import Customer, StoreLocator, Order, CreditCard
 from os import walk
