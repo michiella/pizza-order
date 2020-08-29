@@ -3,20 +3,18 @@ pizzapy
 
 Disclaimer
 -----------
-This is my fork of https://github.com/gamagori/pizzapi
-It's heavily modified and not well documented, but i'm going to get to that. the below example should work though.
+This is my fork of https://github.com/Magicjarvis/pizzapi. I wanted to try this out after watching his Youtube video :D This was solely for fun/practice.
+I edited some parts of the code for it to work in Canada (it can be easily modified to work in USA as well).
 
-sorry! was kind of in a rush this morning.
-
-Setup
+Setup 
 -----
+(This was my first time working with an API, so this part took up the bulk of my time)
 
-1. install python3
-2. download this repository
-3. install the requirements of the repository `pip install -r requirements.txt`
-4. start a python3 interpreter inside of the folder called pizzapy
-5. have fun
-
+1. Download this repository.
+2. Open it in a code editor of your choice. (I used VS Code)
+3. Install the requirements of the repository in the command line using: `pip install -r requirements.txt`.
+4. Open up a new Python file in the outermost folder and import pizzapy. 
+5. Follow the quick start instructions and enjoy your Dominos..!
 
 Description
 -----------
